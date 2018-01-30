@@ -15,3 +15,13 @@
  
 */
 
+let favoriteTVshow1 = "Arrow"
+let favoriteTVshow2 = "Flash"
+var scoreboard = 4 * 8
+var pagesread = 5 + 2
+var storieswritten = 6 - 2
+var myScore = 6
+myScore = myScore * 5
+let x = 5
+let y = 10
+let pi = Double(x) - y
